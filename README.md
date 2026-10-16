@@ -1,7 +1,7 @@
 # cosmomateria.com
 
 Sitio de CosmoMateria, estudio de comunicación y producción dirigido por April Cosmic.
-HTML, CSS y JS sin dependencias ni paso de compilación, listo para GitHub Pages.
+HTML, CSS y JS sin dependencias ni paso de compilación, listo para GitHub.
 
 ## Estructura
 
