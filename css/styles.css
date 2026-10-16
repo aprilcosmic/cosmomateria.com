@@ -220,7 +220,7 @@ em{font-style:italic}
 /* ---------- NOSOTROS ---------- */
 .about{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:clamp(40px,7vw,96px);align-items:center}
 .about-photo{position:relative}
-.about-photo img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 15%;border-radius:999px 999px 18px 18px}
+.about-photo img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;border-radius:999px 999px 18px 18px}
 .about-photo::after{content:"";position:absolute;width:64px;height:64px;right:-14px;top:18%;background:var(--rojo);clip-path:path("M32 0 C33.3 19.2 44.8 30.7 64 32 C44.8 33.3 33.3 44.8 32 64 C30.7 44.8 19.2 33.3 0 32 C19.2 30.7 30.7 19.2 32 0Z")}
 .about-text{display:grid;gap:22px}
 .about-text > p:not(.eyebrow):not(.sec-lead){color:var(--crema-2);max-width:58ch}
